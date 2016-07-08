@@ -1,0 +1,17 @@
+/Users/vitalykorneev/projects/unity/first_person_game/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/vitalykorneev/projects/unity/first_person_game/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/vitalykorneev/projects/unity/first_person_game/obj/Debug/Assembly-CSharp.dll
+/Users/vitalykorneev/projects/unity/first_person_game/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/vitalykorneev/projects/unity/first_person_game/Temp/bin/Debug/UnityEngine.dll
+/Users/vitalykorneev/projects/unity/first_person_game/Temp/bin/Debug/UnityEditor.dll
+/Users/vitalykorneev/projects/unity/first_person_game/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/vitalykorneev/projects/unity/first_person_game/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/vitalykorneev/projects/unity/first_person_game/Temp/bin/Debug/Mono.Cecil.dll
+/Users/vitalykorneev/projects/unity/first_person_game/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/vitalykorneev/projects/unity/first_person_game/Temp/bin/Debug/Unity.DataContract.dll
+/Users/vitalykorneev/projects/unity/first_person_game/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/vitalykorneev/projects/unity/first_person_game/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/vitalykorneev/projects/unity/first_person_game/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/vitalykorneev/projects/unity/first_person_game/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/vitalykorneev/projects/unity/first_person_game/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/vitalykorneev/projects/unity/first_person_game/Temp/bin/Debug/Mono.Cecil.Mdb.dll
